@@ -1,0 +1,36 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "bounded",
+  "editor.bracketPairColorization.enabled": true,
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "css.customData": [".vscode/tailwind-directives.json"],
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "cSpell.words": []
+}
